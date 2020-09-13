@@ -2,11 +2,11 @@
   text-decoration: none;
   margin-top: 2%;
   padding: 1%;
-  background-color: thistle;
   width: 50%;
   display: flex;
   justify-content: center;
   align-items: center;
+  cursor: initial;
 }
 
 .button {
