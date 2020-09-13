@@ -1,6 +1,8 @@
 import React from "react";
 import "./App.css";
+import DarkButton from "./components/dark-blue-button";
 import Header from "./components/header";
+import LightButton from "./components/light-blue-button";
 import Logo from "./components/logo";
 import Title from "./components/title";
 
@@ -12,6 +14,8 @@ function App() {
         <Title />
         <Logo />
       </div>
+      <DarkButton />
+      <LightButton />
     </div>
   );
 }
