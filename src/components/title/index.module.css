@@ -1,0 +1,20 @@
+.container {
+  width: 50%;
+  height: 35vh;
+  padding: 1%;
+  margin-top: 2%;
+  border-right: 2px solid rgb(234, 235, 236);
+}
+
+.text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.text p span {
+  display: block;
+  font-size: 6em;
+  font-weight: 600;
+  color: rgb(35, 77, 109);
+}
