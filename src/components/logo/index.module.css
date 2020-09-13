@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 50%;
+  height: 25vh;
+  padding: 1%;
+  margin-top: 2%;
+}
+
+.logo {
+  margin-left: 50px;
+  width: 500px;
+  height: 180px;
+}
